@@ -1,4 +1,4 @@
-## Olá eu sou o Dev Pietro, estudante de html/css e js
+#### 👋Olá eu sou o Dev Pietro, estudante de html/css e js
  
 - 🎃 Hoje faço projetos com front-end
 - 🌱 Estudando Html/css e js
