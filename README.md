@@ -3,7 +3,7 @@
 
 - 🎃 Workbase **Front-End Projects/GUI**
 
-- 🌱 I’m currently learning **Game Cracking/Develoment**
+- 🌱 I’m currently learning **Game Development/Cracking**
 
 - 💖 I usually do **Game Mods/Interfaces**
 
