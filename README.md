@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Enzw</h1>
-<h3 align="center">A young Brazilian developer (or trying to)</h3>
+<h3 align="center">Developer 4 fun</h3>
 
-- 🎃 Workbase **Front-End Projects/GUI**
+- 🎃 Workbase **Websites**
 
-- 🌱 I’m currently learning **Game Development/Cracking**
+- 🌱 I’m currently learning **Actualy, stopped**
 
-- 💖 I usually do **Game Mods/Interfaces**
+- 💖 I usually do **Game Mods/Interfaces and Websites**
 
-- 😎 My Recent Project is **GTA Mod Menu Interface**
+- 😎 My Recent Project is **A website for a friend**
 
 
 
